@@ -1,1 +1,1 @@
-# logo_sipantau
+.../main/logo.png
